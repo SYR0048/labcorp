@@ -29,7 +29,7 @@ Steps :
 
 go to EmployeeTimesheet\fecode\employeetimesheet and run below commands in git bash
 
-```bash
+```bashcd 
 ```
 npm install
 ng build --prod
